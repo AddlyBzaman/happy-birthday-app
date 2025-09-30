@@ -61,7 +61,7 @@ export class AppComponent {
      // console.log('names: ', names.join(' '));
         this.who = names.join(' ');
     } else {
-      this.who = 'To You';
+      this.who = 'santi';
     }
   });
 
